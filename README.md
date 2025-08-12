@@ -24,3 +24,7 @@ Ce projet explore l'utilisation de **Neo4j**, une base de données orientée gra
    ```bash
    git clone https://github.com/halima570/Neo4j_app.git
    cd Neo4j_app
+```
+## Contact
+
+Pour toute question, tu peux me contacter via mon profil linkedin (www.linkedin.com/in/halima-el-hagouchi-61a21a213).
